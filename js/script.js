@@ -63,7 +63,18 @@ const CONFIG = {
             technologies: ['React', 'Node.js', 'PostgreSQL', 'Twilio', 'Stripe'],
             github: 'https://github.com/Dev-moe-kyawaung/healthcare',
             demo: '#'
-        }
+        },
+         {
+    id: 7,
+    icon: '🎯',
+    category: 'Your Category',
+    title: 'Project Title',
+    description: 'Project description...',
+    technologies: ['Tech1', 'Tech2'],
+    github: 'https://github.com/your-repo',
+    demo: 'https://your-demo.com'
+         }
+        
     ]
 };
 
